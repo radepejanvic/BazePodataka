@@ -1,0 +1,2 @@
+# BazePodataka
+Informacioni Sistem Menze
